@@ -1,4 +1,4 @@
-# AttendX — Student Attendance System
+# AttendX — Student Attendance
 
 A full-stack, production-ready attendance management system built with **Next.js 14 App Router**, **Firebase Authentication**, **Firestore**, and **Tailwind CSS**.
 
